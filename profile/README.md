@@ -2,22 +2,24 @@
 
 ## Introduction
 
-Welcome to the IXO Foundation’s official GitHub organization! We are building the Internet of Impact, a decentralized platform that uses blockchain technology to create, verify, and exchange digital assets linked to real-world social, environmental, and economic impacts. As a Cosmos-based Layer 1 appchain, IXO enables verifiable claims and impact measurement with trusted data.
+Welcome to the IXO Foundation’s official GitHub organization! 
+We are building the Internet of Impacts, a decentralized platform that uses blockchain technology to create, verify, and exchange digital assets linked to real-world social, environmental, and economic impacts. As a Cosmos-based Layer 1 appchain, IXO enables verifiable claims and impact measurement with trusted data.
 
 Our goal is to enable developers, organizations, and innovators to build applications that drive measurable, sustainable outcomes globally.
 
-	•	🌍 Website: IXO.world
-	•	💼 Projects & Tools: Impacts Exchange | SignX
-	•	📖 Documentation: IXO Protocol | IXO Whitepaper
-	•	📫 Get in touch: Discord | Telegram
+- 🌍 **Website**: [IXO.world](https://www.ixo.world)
+- 💼 **Projects & Tools**: [Impacts X Mobile Wallet](https://mobile.impacts.download) | [Impacts Exchange Asset Marketplace](https;//app.impacts.exchange) | [Jambo Wallet for Opera on Android](https://my.jambo.earth)
+- 📖 **Documentation**: [IXO Protocol](https://www.ixo.world/ixo-protocol) | [IXO Whitepaper](https://www.ixo.world/white-paper) | [IXO Token](https://www.ixo.world/ixo-token)
+- 📫 **Get in touch**: [Telegram](https://t.me/ixonetwork) | [X](https://x.com/ixoworld) | [Discord](https://discord.gg/jwpT7QaM) | [LinkedIn](https://www.linkedin.com/company/ixoworld)
 
 ## Get Started with IXO
 
-Are you ready to dive into the Internet of Impact? Here are some quick links to help you get started:
+Are you ready to dive into the Internet of Impacts? Here are some quick links to help you get started:
 
-	•	SDKs and Libraries: Explore our SDKs and APIs to build on the IXO blockchain.
-	•	Smart Contracts: Learn how to develop with CosmWasm smart contracts on IXO.
-	•	Developer Documentation: Read our IXO Protocol documentation to understand the technical framework.
+- **SDKs and Libraries**: Explore our SDKs and APIs to build on the [IXO blockchain](https://github.com/ixofoundation/ixo-blockchain).
+    - [IXO Multiclient SDK](https://www.npmjs.com/package/@ixo/impactxclient-sdk) | [SignX](https://www.npmjs.com/package/@ixo/signx-sdk) | [Chain Resolver](https://www.npmjs.com/package/@ixo/cosmos-chain-resolver) | [Matrix Client](https://www.npmjs.com/package/@ixo/matrixclient-sdk) | [AI Assistant](https://www.npmjs.com/package/@ixo/assistant-sdk) | [Jambo Wallet SDK](https://www.npmjs.com/package/@ixo/jambo-wallet-sdk) | [DID Provider](https://www.npmjs.com/package/@ixo/did-provider-x)
+- **Smart Contracts**: Learn how to develop with [CosmWasm smart contracts](https://github.com/ixofoundation/ixo-contracts) on IXO.
+- **Developer Documentation**: Read our [IXO Protocol documentation](https://www.ixo.world/ixo-protocol) to understand the technical framework.
 
 For more detailed guides and example projects, visit our documentation repositories.
 
@@ -25,10 +27,12 @@ For more detailed guides and example projects, visit our documentation repositor
 
 Here’s a quick overview of the most important repositories in our organization:
 
-	1.	IXO SDK – Core SDK for interacting with the IXO blockchain.
-	2.	Impacts X – Mobile app for managing digital assets and verifiable credentials.
-	3.	SignX – A cryptographic signature tool that simplifies signing multiple blockchain transactions.
-	4.	Blocksync – A tool to index blockchain data for easy retrieval via GraphQL.
+1. [IXO blockchain](https://github.com/ixofoundation/ixo-blockchain) - Layer 1 appchain making use of the Cosmos SDK, CometBFT, and IBC.
+2. [IXO Multiclient SDK](https://github.com/ixofoundation/ixo-multiclient-sdk) – Core SDK for interacting with the IXO blockchain.
+3. [Impacts X (private)](https://github.com/ixofoundation/ixo-Mobile-dev) – Mobile app for managing digital assets and verifiable credentials.
+4. [SignX](https://github.com/ixofoundation/ixo-signx) – A cryptographic signature tool that simplifies signing multiple blockchain transactions.
+5. [IXO Blocksync](https://github.com/ixofoundation/ixo-blocksync) – A tool to index blockchain data for easy retrieval via GraphQL.
+6. [IXO Swap](https://github.com/ixofoundation/ixo-contracts/tree/master/ixo-swap) - A CosmWasm smart contract written in Rust.
 
 Feel free to explore the repositories and start contributing!
 
@@ -36,19 +40,19 @@ Feel free to explore the repositories and start contributing!
 
 We welcome contributions from the community! Whether you’re fixing bugs, adding features, or improving documentation, you can make an impact. Here’s how you can get involved:
 
-	1.	Fork the repository you want to contribute to.
-	2.	Create a new branch for your feature or bugfix.
-	3.	Submit a pull request with a clear description of your changes.
+1.	Fork the repository you want to contribute to.
+2.	Create a new branch for your feature or bugfix.
+3.	Submit a pull request with a clear description of your changes.
 
-Please follow our Contribution Guidelines for more details on how to contribute effectively.
+Please follow our [Contribution Guidelines](./CONTRIBUTING.md) for more details on how to contribute effectively.
 
 ## Community & Support
 
 We are building a vibrant, collaborative community of developers, validators, and impact organizations. Join our active community to stay updated, ask questions, and share your insights:
 
-	•	Discord: Join us on IXO’s Discord for real-time conversations and updates.
-	•	Telegram: Connect with our broader community on Telegram.
-	•	Issues & Discussions: Found a bug or have a feature request? Feel free to open an issue or start a discussion.
+•	Discord: Join us on IXO’s Discord for real-time conversations and updates.
+•	Telegram: Connect with our broader community on Telegram.
+•	Issues & Discussions: Found a bug or have a feature request? Feel free to open an issue or start a discussion.
 
 ## License
 
@@ -58,4 +62,4 @@ All code in this repository is licensed under the Apache 2.0 License. Feel free 
 
 Stay up to date with the latest developments by following us on Twitter or checking out our Blog.
 
-Let’s build the future of impact together!
+Let’s build the future of impacts together!
