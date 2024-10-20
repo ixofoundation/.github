@@ -20,9 +20,9 @@ Table of Contents
 
 ## Getting Started
 
-Before contributing, please take a moment to read through this guide. For any questions, feel free to join our Discord or Telegram community.
+Before contributing, please take a moment to read through this guide. For any questions, feel free to join our [Discord](https://discord.gg/jwpT7QaM) or [Telegram](https://t.me/ixonetwork) community.
 
-If you’re new to open-source contribution, we suggest checking out GitHub’s How to Contribute guide.
+If you’re new to open-source contribution, we suggest checking out GitHub’s How to Contribute [guide](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 ## Code of Conduct
 
@@ -113,9 +113,9 @@ After your PR is reviewed and approved, it will be merged by a maintainer.
 
 We are building a collaborative, inclusive community around IXO. Here’s how you can get involved and stay connected:
 
-•	Discord: Join the discussion and ask questions on Discord.
-•	Telegram: Follow updates and engage with the IXO community on Telegram.
-•	Discussions: Participate in GitHub Discussions to share ideas, ask questions, and propose features.
+•	Discord: Join the discussion and ask questions on [Discord](https://discord.gg/jwpT7QaM).
+•	Telegram: Follow updates and engage with the IXO community on [Telegram](https://t.me/ixonetwork).
+•	Discussions: Participate in our GitHub [Discussions](https://github.com/orgs/ixofoundation/discussions) to share ideas, ask questions, and propose features.
 
 ## License
 
