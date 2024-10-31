@@ -21,7 +21,12 @@ Are you ready to dive into the Internet of Impacts? Here are some quick links to
 - **Smart Contracts**: Learn how to develop with [CosmWasm smart contracts](https://github.com/ixofoundation/ixo-contracts) on IXO.
 - **Developer Documentation**: Read our [IXO Protocol documentation](https://www.ixo.world/ixo-protocol) to understand the technical framework.
 
-For more detailed guides and example projects, visit our documentation repositories.
+For more detailed guides and example projects, visit the documentation of the respective repositories.
+
+## Blockchain Network Endpoints
+- Published `RPC_ENDPOINT` providers can be found at the Cosmos [Chain Registry Github repository](https://github.com/cosmos/chain-registry/blob/533af67f3a21bb952189070c106859eac59e4466/impacthub/chain.json#L148) for Mainnet.
+- Testnet providers are [found here.](https://github.com/cosmos/chain-registry/blob/533af67f3a21bb952189070c106859eac59e4466/testnets/impacthubtestnet/chain.json#L81)
+- Providers for Devnet are [found here.](https://github.com/cosmos/chain-registry/blob/533af67f3a21bb952189070c106859eac59e4466/testnets/impacthubdevnet/chain.json#L56)
 
 ## Key Projects
 
