@@ -1,9 +1,9 @@
-# Welcome to the IXO Foundation GitHub
+# Welcome to IXO: The Spatial Web of Impacts
 
 ## Introduction
 
-Welcome to the IXO Foundation’s official GitHub organization! 
-We are building the Internet of Impacts, a decentralized platform that uses blockchain technology to create, verify, and exchange digital assets linked to real-world social, environmental, and economic impacts. As a Cosmos-based Layer 1 appchain, IXO enables verifiable claims and impact measurement with trusted data.
+Welcome to the IXO GitHub organization! 
+We are building the **Spatial Web of Impacts**, a decentralized Web 3.0 and AI platform for creating, controlling, and interacting with Digital Twin domains that are able to monitor and facilitate verifiable social, environmental, and economic impacts impacts in the real-world.
 
 Our goal is to enable developers, organizations, and innovators to build applications that drive measurable, sustainable outcomes globally.
 
